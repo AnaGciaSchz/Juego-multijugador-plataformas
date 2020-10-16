@@ -1,0 +1,105 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Naves.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Actor.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Actor.cpp(6,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Actor.cpp(7,12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Actor.cpp(57,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Animation.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(11,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(12,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(13,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(14,21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(29,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(30,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(56,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(65,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Animation.cpp(66,20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Audio.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Audio.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Background.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Background.cpp(24,9): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Game.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Audio.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Game.cpp(61,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Game.cpp(61,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GameLayer.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Audio.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\GameLayer.cpp(40,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\GameLayer.cpp(41,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Layer.cpp
+  Main.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Main.cpp(4,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  MenuLayer.cpp
+  Player.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Audio.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(13,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(13,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(15,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(15,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(17,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(17,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(19,10): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(19,3): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(20,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(20,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(22,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(22,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(24,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(24,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(26,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(26,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(28,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(28,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(42,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(42,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(58,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Player.cpp(62,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Projectile.cpp
+  Space.cpp
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(32,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(64,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(70,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(110,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(116,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(146,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(152,30): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Naves\Space.cpp(184,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Tile.cpp
+  tinyxml2.cpp
+  Generando código...
+  chipmunk.c
+  cpArbiter.c
+  cpArray.c
+  cpBBTree.c
+  cpBody.c
+  cpCollision.c
+  cpConstraint.c
+  cpDampedRotarySpring.c
+  cpDampedSpring.c
+  cpGearJoint.c
+  cpGrooveJoint.c
+  cpHashSet.c
+  cpHastySpace.c
+  cpMarch.c
+  cpPinJoint.c
+  cpPivotJoint.c
+  cpPolyline.c
+  cpPolyShape.c
+  cpRatchetJoint.c
+  cpRobust.c
+  Generando código...
+  Compilando...
+  cpRotaryLimitJoint.c
+  cpShape.c
+  cpSimpleMotor.c
+  cpSlideJoint.c
+  cpSpace.c
+  cpSpaceComponent.c
+  cpSpaceDebug.c
+  cpSpaceHash.c
+  cpSpaceQuery.c
+  cpSpaceStep.c
+  cpSpatialIndex.c
+  cpSweep1D.c
+  Generando código...
+     Creando biblioteca C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Debug\Plataformas.lib y objeto C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Debug\Plataformas.exp
+  Naves.vcxproj -> C:\En proceso\Uniovi\SOF - Asignaturas\Videojuegos\2021\C++\5 - Extras y propuesta\PlataformasReducidoInicioPractica5\Plataformas3\Debug\Plataformas.exe
